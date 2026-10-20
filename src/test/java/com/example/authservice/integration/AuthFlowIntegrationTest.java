@@ -1,4 +1,4 @@
-package integration;
+package com.example.authservice.integration;
 
 import com.jayway.jsonpath.JsonPath;
 import org.junit.jupiter.api.Test;
